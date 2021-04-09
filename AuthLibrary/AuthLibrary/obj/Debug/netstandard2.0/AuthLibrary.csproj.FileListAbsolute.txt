@@ -1,0 +1,9 @@
+C:\Users\jobu\OneDrive - Sydtrafik\DLL\AuthLibrary\AuthLibrary\bin\Debug\netstandard2.0\AuthLibrary.deps.json
+C:\Users\jobu\OneDrive - Sydtrafik\DLL\AuthLibrary\AuthLibrary\bin\Debug\netstandard2.0\AuthLibrary.dll
+C:\Users\jobu\OneDrive - Sydtrafik\DLL\AuthLibrary\AuthLibrary\bin\Debug\netstandard2.0\AuthLibrary.pdb
+C:\Users\jobu\OneDrive - Sydtrafik\DLL\AuthLibrary\AuthLibrary\obj\Debug\netstandard2.0\AuthLibrary.AssemblyInfoInputs.cache
+C:\Users\jobu\OneDrive - Sydtrafik\DLL\AuthLibrary\AuthLibrary\obj\Debug\netstandard2.0\AuthLibrary.AssemblyInfo.cs
+C:\Users\jobu\OneDrive - Sydtrafik\DLL\AuthLibrary\AuthLibrary\obj\Debug\netstandard2.0\AuthLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jobu\OneDrive - Sydtrafik\DLL\AuthLibrary\AuthLibrary\obj\Debug\netstandard2.0\AuthLibrary.dll
+C:\Users\jobu\OneDrive - Sydtrafik\DLL\AuthLibrary\AuthLibrary\obj\Debug\netstandard2.0\AuthLibrary.pdb
+C:\Users\jobu\OneDrive - Sydtrafik\DLL\AuthLibrary\AuthLibrary\obj\Debug\netstandard2.0\AuthLibrary.csprojAssemblyReference.cache
